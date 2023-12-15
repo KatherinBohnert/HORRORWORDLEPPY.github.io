@@ -1,7 +1,7 @@
 @import url(https://fonts.google.com/specimen/Nosifer?preview.text=HORROR%20WORDLE&query=Nosif);
 @font-face {
-    font-family: ;
-    src: url(https://fonts.google.com/specimen/Nosifer?preview.text=HORROR%20WORDLE&query=Nosif);
+    font-family: 'Nosifer';
+  src: url(https://fonts.gstatic.com/s/nosifer/v15/ZGjXol5JTp0g5bxZaCpZI5e-76dKw.woff2) format('woff2');
 }
 h1 {
     font: 1em Nosifer;
